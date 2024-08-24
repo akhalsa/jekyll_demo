@@ -1,4 +1,4 @@
 layout: page
-title: "FIRST"
-permalink: /first
+title: "FIRST-PAGE"
+permalink: /first_page/
 This is the content of the first
