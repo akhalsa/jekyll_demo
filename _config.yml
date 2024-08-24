@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  akhalsa
 
 # Build settings
-remote_theme: abhinavs/moonwalk
+remote_theme: raviriley/agency-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
